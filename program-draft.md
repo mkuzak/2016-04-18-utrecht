@@ -1,18 +1,16 @@
 ### Monday 
 
-* [Unix Shell](http://swcarpentry.github.io/shell-novice/) (natalie)
-* [version control with Mercurial](http://swcarpentry.github.io/hg-novice/) (Mateusz)
+* Python intro
 
 lunch
 
-* Python intro (will have to adjust existing material) (Carlos)
+* version control, advanced shell
 
 ### Tuesday
 
-* Python more (will have to adjust existing material) (Markus)
+* Python, NumPy, Matplotlib
 
 lunch
 
 * [Python and netCDF, HDF5, sqlite](http://damienirving.github.io/capstone-oceanography/)
   and stuff from "Effective computation in physics (Mateusz?)
-* visualisation (Carlos/Mateusz ?)
